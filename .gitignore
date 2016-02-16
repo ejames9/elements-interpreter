@@ -1,1 +1,8 @@
+#node
 lib/node_modules
+
+#supporting/test documents
+lib/import.js
+lib/document.js
+lib/elements.js
+lib/server.js
