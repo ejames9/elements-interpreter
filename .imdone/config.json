@@ -35,6 +35,10 @@
     {
       "name": "DONE",
       "hidden": false
+    },
+    {
+      "name": "NOTE",
+      "hidden": false
     }
   ],
   "marked": {
@@ -44,5 +48,6 @@
     "pedantic": false,
     "smartLists": true,
     "langPrefix": "language-"
-  }
+  },
+  "keepEmptyPriority": false
 }
